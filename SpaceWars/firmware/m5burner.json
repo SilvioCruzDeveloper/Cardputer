@@ -1,0 +1,19 @@
+{
+  "name": "SpaceWars",
+  "description": "Jogo SpaceWars para M5Stack",
+  "keywords": "ESP32, Jogo, SpaceWars",
+  "author": "Silvio Cruz",
+  "repository": "https://github.com/SilvioCruzDeveloper/Cardputer",
+  "firmware_category": [
+    {
+      "Games": {
+        "path": "SpaceWars/firmware/SpaceWars.ino.bin",
+        "device": ["M5Stack-Core"],
+        "default_baud": 921600,
+        "cover": "SpaceWars/firmware/cover.png"
+      }
+    }
+  ],
+  "version": "1.0.0",
+  "framework": "Arduino"
+}
